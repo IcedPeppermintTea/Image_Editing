@@ -20,6 +20,15 @@ patch_path = "patch_img\\"
 
 # Introduction
 print("Image Processing Program" + "\n")
+
+# menu
+# choose one of the following:
+# 1. for resizing
+# 2. for cropping
+# 3. for patches
+# 4. (anything other than 1-3 is error)
+# make it as a loop? not for now 
+
 resize = input("Do you wish to resize your images (y/n)? ")
 cropping = input("Do you wish to crop your images (y/n)? ")
 patches = input("Do you wish to create patches (y/n)?")
