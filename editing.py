@@ -18,7 +18,7 @@ test = os.listdir(initial_path)  # create a list of all files and directories in
 resize_path = "resize_img\\"
 patch_path = "patch_img\\"
 
-# Authentication...
+# Authentication... # from https://www.youtube.com/watch?v=AxicSoTyMho&list=PLOAQdz1Tuyx1FkJxwV8lSwI7AJgSdZJzv&index=5&t=671s
 username = "programmer"
 password = "comp_vis"
 uname = input("Enter a username: ")
